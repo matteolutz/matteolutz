@@ -1,4 +1,4 @@
-<h3 align="center">A passionate backend developer from Germany</h3>
+<h3 align="center">A passionate allround developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteolutz&label=Profile%20views&color=0e75b6&style=flat" alt="matteolutz" /> </p>
 
