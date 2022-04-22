@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteolutz&label=Profile%20views&color=0e75b6&style=flat" alt="matteolutz" /> </p>
 
-- 🔭 I’m currently working on [umber-lang](https://github.com/matteolutz/umber-lang)
+- 🔭 I’m currently working on [umber-lang](https://github.com/matteolutz/umber-lang), and its standard library [umber-std](https://github.com/matteolutz/umber-std)
 
 - 🌱 I’m currently learning **x86-64 NASM Assembly and Compiler Design**
 
