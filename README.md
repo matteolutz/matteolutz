@@ -19,5 +19,5 @@
 
 </p>
   
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteolutz&show_icons=true&locale=en" alt="matteolutz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteolutz&show_icons=true&locale=en&theme=radical" alt="matteolutz" /></p>
 
