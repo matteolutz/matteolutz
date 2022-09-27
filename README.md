@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **x86-64 NASM Assembly and Compiler Design**
 
-- 👨‍💻 All of my projects are (soon) available at [https://matteolutz.de](https://matteolutz.de)
+- 👨‍💻 All of my projects are available at [https://matteolutz.de](https://matteolutz.de)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
